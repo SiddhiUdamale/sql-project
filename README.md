@@ -47,7 +47,7 @@ This project performs end-to-end data analysis on an e-commerce dataset using Py
 ## Files
 
 - `ecommerce_analysis.ipynb` – Notebook containing data loading, SQL execution, and visualizations
-- `.csv` files – Raw datasets 
+- `.csv` files – Raw datasets -https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
 - `README.md` – This file
 
 ---
